@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_margin="3dp"
+        android:id="@+id/linearLayoutDeviceInfo"
+        style="@style/LinearLayoutStyle_WrapContent_Horizontal">
+
+        <TextView
+            android:id="@+id/textViewDeviceName"
+            style="@style/TextStyleBlack"
+            android:text="Device Name"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/textViewDeviceAddress"
+            style="@style/TextStyleGrey"
+            android:text="Mac Address"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

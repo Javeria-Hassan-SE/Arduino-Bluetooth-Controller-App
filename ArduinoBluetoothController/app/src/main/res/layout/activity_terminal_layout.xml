@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/MainRelativeLayoutStyle">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/my_appBarLayout"
+        style="@style/AppBarLayoutStyle">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:subtitleTextColor="@color/white"
+            app:title="@string/app_name"
+            app:titleTextColor="@color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/RL1"
+        android:layout_below="@id/my_appBarLayout"
+        style="@style/RelativeLayoutStyle_WrapContent">
+
+        <EditText
+            android:id="@+id/terminalMsg"
+            style="@style/TextStyleGrey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:autofillHints="none"
+            android:hint="@string/enter_your_text_here"
+            android:inputType="text"
+            android:padding="16dp" />
+
+        <TextView
+            android:id="@+id/sendMsg"
+            style="@style/TextStyleGrey"
+            android:layout_below="@id/terminalMsg"
+            android:layout_toStartOf="@id/stopMsg"
+            android:background="@color/green"
+            android:padding="8dp"
+            android:text="@string/send"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/stopMsg"
+            style="@style/TextStyleGrey"
+            android:layout_below="@id/terminalMsg"
+            android:layout_alignParentEnd="true"
+            android:background="@color/red"
+            android:padding="8dp"
+            android:text="Stop"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/RL1"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="16dp" />
+
+</RelativeLayout>

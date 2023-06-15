@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_select_device_layout.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_select_device_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_offled.PNG.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\offled.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_transparent_btn_bg.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\transparent_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_servomotor.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\servomotor.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_onled.PNG.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\onled.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_terminal_layout.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_terminal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_view_terminal_messages.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\view_terminal_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_connect_layout.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_connect_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluetooth.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_sensor.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\sensor.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_seek_bar_bg.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\seek_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_terminal.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\terminal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_led_layout.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_led_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable_led.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\drawable\\led.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_servo_motor_layout.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\activity_servo_motor_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\build\\intermediates\\merged_res\\debug\\layout_view_device_info.xml.flat",
+        "source": "C:\\Users\\Lab1\\AndroidStudioProjects\\ArduinoBluetoothController\\app\\src\\main\\res\\layout\\view_device_info.xml"
+    }
+]

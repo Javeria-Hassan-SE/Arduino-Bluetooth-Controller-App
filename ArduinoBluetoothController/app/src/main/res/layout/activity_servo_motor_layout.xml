@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/MainRelativeLayoutStyle">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/my_appBarLayout"
+        style="@style/AppBarLayoutStyle">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:subtitleTextColor="@color/white"
+            app:title="@string/app_name"
+            app:titleTextColor="@color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_below="@id/my_appBarLayout"
+        android:id="@+id/Linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ImageRetrieveIv"
+            android:layout_width="75dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/servomotor">
+
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <RelativeLayout
+            style="@style/RelativeLayoutStyle_WrapContent">
+
+            <LinearLayout
+                android:layout_marginTop="15dp"
+                android:id="@+id/L1"
+                style="@style/LinearLayoutStyle_WrapContent_Horizontal"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/LED1"
+                    style="@style/SubHeadingStyle"
+                    android:text="Servo Motor"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/L2"
+                android:layout_below="@id/L1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/startServo"
+                    style="@style/TextStyleGrey"
+                    android:padding="8dp"
+                    android:text="Set Servo motor Angle by moving the slider"
+                    android:alpha="0.7"
+                    android:layout_margin="10dp"/>
+
+
+
+            </LinearLayout>
+
+
+           <RelativeLayout
+               android:layout_below="@id/L2"
+               style="@style/RelativeLayoutStyle_WrapContent">
+
+               <SeekBar
+                   android:id="@+id/seekBar"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:max="180"
+                   android:progressDrawable="@drawable/seek_bar_bg" />
+
+               <TextView
+                   android:id="@+id/progressServo"
+                   style="@style/TextStyleGrey"
+                   android:layout_below="@id/seekBar"
+                   android:layout_centerHorizontal="true"
+                   android:layout_marginStart="10dp"
+                   android:layout_marginTop="10dp"
+                   android:layout_marginEnd="10dp"
+                   android:layout_marginBottom="10dp"
+                   android:background="@color/dimGrey"
+                   android:padding="8dp"
+                   android:text="@string/servo_motor_rotation_angle"
+                   android:textColor="@color/white" />
+               <TextView
+                   android:id="@+id/servoProgress"
+                   style="@style/TextStyleGrey"
+                   android:padding="8dp"
+                   android:layout_below="@id/progressServo"
+                   android:layout_centerHorizontal="true"
+                   />
+           </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

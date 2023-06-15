@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/MainRelativeLayoutStyle">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/my_appBarLayout"
+        style="@style/AppBarLayoutStyle">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:subtitleTextColor="@color/white"
+            app:title="@string/app_name"
+            app:titleTextColor="@color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/RL1"
+        android:layout_below="@id/my_appBarLayout"
+        style="@style/RelativeLayoutStyle_WrapContent">
+        <Button
+            android:padding="5dp"
+            android:id="@+id/buttonConnect"
+            android:text="@string/connect"
+            style="@style/ButtonStyle"
+            android:layout_centerHorizontal="true"/>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/buttonConnect"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@id/RL1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/statusH"
+            style="@style/TextStyleBlack"
+            android:text="@string/status"
+            android:textStyle="bold"
+            android:layout_margin="8dp"/>
+
+        <TextView
+            android:id="@+id/deviceConnectionStatus"
+            style="@style/TextStyleBlack"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_toEndOf="@id/statusH"
+            android:gravity="center"
+            android:text="@string/your_device_is_not_connected"
+            android:textColor="@color/red" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

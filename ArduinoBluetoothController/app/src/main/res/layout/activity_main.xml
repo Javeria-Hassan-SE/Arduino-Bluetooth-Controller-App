@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MainLinearLayoutStyle"
+    tools:context=".MainActivity">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/my_appBarLayout"
+        style="@style/AppBarLayoutStyle">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:subtitleTextColor="@color/white"
+            app:title="@string/app_name"
+            app:titleTextColor="@color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <RelativeLayout
+        android:id="@+id/rL1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/logo"
+            android:contentDescription="@string/app_name"
+            android:layout_marginBottom="5dp"/>
+
+        <TextView
+            android:id="@+id/buildBluetoothConnection"
+            style="@style/TextStyleGrey"
+            android:layout_below="@+id/image"
+            android:layout_centerHorizontal="true"
+            android:text="@string/connect_via_bluetooth"
+            android:textColor="@color/blue"
+            android:textStyle="bold"
+            android:padding="3dp"
+            android:layout_margin="8dp"/>
+
+        <TextView
+            android:id="@+id/BluetoothConnectionStatus"
+            style="@style/TextStyleGrey"
+            android:layout_below="@+id/buildBluetoothConnection"
+            android:layout_centerHorizontal="true"
+            android:text="@string/your_device_is_not_connected"
+            android:textColor="@color/red"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="40dp"
+        android:id="@+id/cardViewLED"
+        style="@style/CardViewStyle">
+
+                <LinearLayout
+                    android:layout_weight="1"
+                    style="@style/LinearLayoutStyle_WrapContent_Vertical"
+                    android:layout_centerHorizontal="true">
+
+                    <ImageView
+                        style="@style/ImageViewStyle_main"
+                        android:src="@drawable/led"
+                        android:scaleType="fitCenter"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        style="@style/TextStyleBlack"
+                        android:text="@string/led"
+                        android:layout_gravity="center"/>
+
+                </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_toEndOf="@+id/cardViewLED"
+        android:layout_marginTop="40dp"
+        android:id="@+id/cardViewServo"
+        style="@style/CardViewStyle">
+
+        <LinearLayout
+            android:layout_weight="1"
+            style="@style/LinearLayoutStyle_WrapContent_Vertical">
+            <ImageView
+                style="@style/ImageViewStyle_main"
+                android:src="@drawable/servomotor"
+                android:scaleType="fitCenter" />
+
+            <TextView
+                style="@style/TextStyleBlack"
+                android:text="@string/servo_motor"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_below="@id/cardViewLED"
+            android:layout_marginTop="40dp"
+            android:id="@+id/cardViewTerminal"
+            style="@style/CardViewStyle">
+
+            <LinearLayout
+                android:layout_weight="1"
+                style="@style/LinearLayoutStyle_WrapContent_Vertical">
+                <ImageView
+                    style="@style/ImageViewStyle_main"
+                    android:src="@drawable/terminal"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    style="@style/TextStyleBlack"
+                    android:text="@string/terminal"
+                    android:layout_gravity="center"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_toEndOf="@id/cardViewTerminal"
+            android:layout_below="@id/cardViewServo"
+            android:layout_marginTop="40dp"
+            android:id="@+id/cardViewSensor"
+            style="@style/CardViewStyle">
+
+            <LinearLayout
+                android:layout_weight="1"
+                style="@style/LinearLayoutStyle_WrapContent_Vertical">
+                <ImageView
+                    style="@style/ImageViewStyle_main"
+                    android:src="@drawable/sensor"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    style="@style/TextStyleBlack"
+                    android:text="@string/sensor"
+                    android:layout_gravity="center"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</LinearLayout>

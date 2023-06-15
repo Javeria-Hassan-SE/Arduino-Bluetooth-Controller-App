@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth Controller</string>
+    <string name="bluetooth"> Bluetooth</string>
+    <string name="led">LED</string>
+    <string name="servo_motor">Servo Motor</string>
+    <string name="connect">Connect</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="status">Status</string>
+    <string name="your_device_is_not_connected">Your Device is not Connected</string>
+    <string name="enter_your_text_here">Enter Your Text Here!</string>
+    <string name="send">Send</string>
+    <string name="terminal_message">Terminal Message</string>
+    <string name="sensor">Sensor</string>
+    <string name="terminal">Terminal</string>
+    <string name="connect_via_bluetooth">Connect Via Bluetooth</string>
+    <string name="servo_motor_rotation_angle">Servo motor Rotation Angle :</string>
+</resources>

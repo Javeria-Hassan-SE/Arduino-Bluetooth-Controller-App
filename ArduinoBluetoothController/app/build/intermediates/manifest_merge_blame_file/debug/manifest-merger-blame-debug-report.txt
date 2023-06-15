@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hunar.arduinobluetoothcontroller"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+11-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:5:5-76
+11-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:5:22-73
+12    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+12-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:6:5-73
+12-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:6:22-70
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:7:22-65
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:8:5-73
+14-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:8:22-71
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:9:5-80
+15-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:10:5-78
+16-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:10:22-76
+17
+18    <application
+18-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:11:5-37:19
+19        android:allowBackup="true"
+19-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:12:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.5.0] C:\Users\Lab1\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_logo"
+22-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:13:9-39
+23        android:label="@string/app_name"
+23-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:14:9-41
+24        android:roundIcon="@mipmap/ic_logo_round"
+24-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:15:9-50
+25        android:supportsRtl="true"
+25-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:16:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.ArduinoBluetoothController" >
+27-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:17:9-64
+28        <activity
+28-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:19:9-24:16
+29            android:name="com.hunar.arduinobluetoothcontroller.SplashActivity"
+29-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:19:19-49
+30            android:exported="true" >
+30-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:19:50-73
+31            <intent-filter>
+31-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:20:9-23:21
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:21:9-60
+32-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:21:17-58
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:9-68
+34-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:22:19-66
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:26:9-79
+38            android:name="com.hunar.arduinobluetoothcontroller.LEDActivity"
+38-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:26:19-46
+39            android:label="LED" >
+39-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:26:47-66
+40        </activity>
+41        <activity
+41-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:28:9-94
+42            android:name="com.hunar.arduinobluetoothcontroller.ServoMotorActivity"
+42-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:28:19-53
+43            android:label="Servo Motor" >
+43-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:28:54-81
+44        </activity>
+45        <activity
+45-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:30:9-90
+46            android:name="com.hunar.arduinobluetoothcontroller.MainActivity"
+46-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:30:19-47
+47            android:label="Splash Screen" >
+47-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:30:48-77
+48        </activity>
+49        <activity
+49-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:32:9-98
+50            android:name="com.hunar.arduinobluetoothcontroller.SelectDeviceActivity"
+50-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:32:19-55
+51            android:label="Select Device" >
+51-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:32:56-85
+52        </activity>
+53        <activity
+53-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:34:9-99
+54            android:name="com.hunar.arduinobluetoothcontroller.ConnectDeviceActiviy"
+54-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:34:19-55
+55            android:label="Connect device" >
+55-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:34:56-86
+56        </activity>
+57        <activity
+57-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:36:9-89
+58            android:name="com.hunar.arduinobluetoothcontroller.TerminalActivity"
+58-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:36:19-51
+59            android:label="Terminal" >
+59-->C:\Users\Lab1\AndroidStudioProjects\ArduinoBluetoothController\app\src\main\AndroidManifest.xml:36:52-76
+60        </activity>
+61    </application>
+62
+63</manifest>
